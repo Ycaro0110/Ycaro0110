@@ -1,4 +1,4 @@
-# Olá, eu sou o Ycaro 👋
+
 
 🎓 Estudante de Sistemas de Informação  
 💻 Focado em desenvolvimento backend e tecnologia  
@@ -18,18 +18,6 @@ Também tenho interesse em infraestrutura, redes e resolução de problemas téc
 - **Ferramentas:** Git, GitHub, Maven  
 - **Sistemas:** Noções de Linux  
 - **Outros:** HTTP, REST, Arquitetura em Camadas  
-
-## 📌 Projetos em destaque
-
-🔹 [Sistema de Agendamento](https://github.com/Ycaro0110/agendador-horarios)  
-Sistema para gerenciamento de agendamentos com controle de horários e disponibilidade.
-
-🔹 [API de Cadastro de Usuários](https://github.com/Ycaro0110/cadastro-usuario)  
-API REST com operações CRUD utilizando Spring Boot e banco de dados relacional.
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ycaro0110&show_icons=true&theme=default)
 
 ## 📫 Contato
 
